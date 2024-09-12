@@ -1,0 +1,2 @@
+# EJERCICI0S DE COMO ASOCIAR UN DOCUMENTO CSS EN UN HTML
+![alt text](image.png)
