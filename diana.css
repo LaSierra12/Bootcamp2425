@@ -1,0 +1,94 @@
+.circle-red {
+    background-color: rgba(255, 0, 0, 0.998);
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    border: solid 1px black;
+}
+
+.circle-white {
+    background-color: white;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    top: 5px;
+    left: 5px;
+    position: relative;
+    border: solid 1px black;
+}
+.circle-2{
+    position:absolute;
+    top: 14px;
+    left:13px;
+}
+.circle-3{
+    position: absolute;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    top: 19px;
+    left: 17.7px;
+}
+.circle-4{
+    position:absolute;
+    height: 70px;
+    width: 70px;
+    top: 25px;
+    left: 22px;
+}
+.circle-5{
+    position: absolute;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    top: 30px;
+    left: 27px;
+}
+.circle-6{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    top: 35px;
+    left: 32.2px;
+}
+.circle-7{
+    position: absolute;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    top: 40px;
+    left: 37.5px;
+}
+.circle-8{
+    position:absolute;
+    height: 30px;
+    width: 30px;
+    top: 45px;
+    left: 42.8px;
+}
+.circle-9{
+    position: absolute;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    top: 50px;
+    left: 48px;
+}
+
+.cruz{
+    background-color: black;
+    height:100px;
+    width: 1.5px;
+    position: absolute;
+    top: 9px;
+    left: 58px;
+}
+.cruza2{
+    background-color: black;
+    height:1px;
+    width: 101px;
+    position: absolute;
+    top: 60px;
+    left: px;
+}
