@@ -1,35 +1,14 @@
 html{
-    background-color: coral;
-}
-
-.columnas{
-    column-count: 3;
-    column-gap: 40px;
-    margin: 0;
-}
-
-.columnas::before, .columnas::after{
-    content: ""; 
-    position: absolute; 
-    top: 85px; 
-    bottom: 0; 
-    width: 2px; 
-    background-color: red;
-
-}
-.columnas::before {
-    left: calc(33.33%); 
-}
-
-.columnas::after {
-    left: calc(66.66%); 
+    background-color: rgb(216, 148, 235);
 }
 
 h1:hover{
     color:blueviolet;
 }
-
 ::selection{
     background-color: blue;
     color: white;
+}
+p{
+    
 }
