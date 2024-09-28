@@ -1,8 +1,8 @@
 # EJERCICIOS DE CSS
 ## EJERCICIO 1
-![alt text](../assets/image.png)
+![alt text](../assets/image(2).png)
 ### Manera 1
-![alt text](../assets/image-1.png)
+![alt text](../assets/image-1(2).png)
 
 ### Manera 2 y 3
 ![alt text](../assets/image-2.png)
